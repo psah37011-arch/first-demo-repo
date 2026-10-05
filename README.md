@@ -1,4 +1,4 @@
 # first-demo-repo
 this is my first git repository
-<br>
-author prashant sah
+<br>git
+author prashant sah (92)
